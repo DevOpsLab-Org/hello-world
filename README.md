@@ -1,2 +1,2 @@
-# hello-world
-This is very first repo
+Hi !  
+## This is a DevOps lab session 
